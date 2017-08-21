@@ -24,7 +24,7 @@ This is a testing project for Udacity Front-end Nanodegree program. We need to t
 - loaded content changes
 
 ## Running
-Clone or download this repo and open the index.html file. Or open it [live]().
+Clone or download this repo and open the index.html file.
 
 ## Reference
 [Jasmine Doc](https://jasmine.github.io/pages/docs_home.html)
